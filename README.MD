@@ -2,7 +2,7 @@
 Projeto Artigos Gerados por I.A.s
 
 <p align="center"> 
-    <img src="" width="100" />
+    <img src="https://github.com/tilucasoliveira/prompts-for-article-generate-by-ia-main/blob/main/assets/preview.png" width="100" />
 </p>
 
 
