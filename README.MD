@@ -28,9 +28,9 @@ O projeto tem com objetivo, gerar pequenos artigos digitais com as facilidades d
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ChatGPT](https://chat.openai.com/) - Para gerar os artigos
+- [Lexica.art](https://lexica.art/) - Para gerar imagens
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) -  Para formatação de banners e Layouts 
 
 ## 🧠 Prompts
 
