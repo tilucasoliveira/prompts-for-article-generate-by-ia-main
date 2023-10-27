@@ -41,16 +41,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto  "Governança de TI - base de conhecimento"                                                    |
 | Assunto | > Comporte-se como um escritor de artigos especialista de governança de TI  e escreva o Artigo atendendo as regras abaixo
-{REGRAS}
-> No máximo 5 linhas por blocos de explicação
-> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
-> Os blocos que serão criados estão abaixo:
-##Blocos
-- A importância da governança de TI para a segurança da informação
-- Governança de TI: como alinhar segurança e processos à estratégia do negócio?
-- Segurança da informação e LGPD
-- Governança de TI e LGPD
-- Como implementar práticas de segurança de TI nas organizações?                                                |
+| {REGRAS} | > No máximo 5 linhas por blocos de explicação - > Me explique de maneira informal, como se eu fosse uma criança de 10 anos -> Os blocos que serão criados estão abaixo: ##Blocos - A importância da governança de TI para a segurança da informação - Governança de TI: como alinhar segurança e processos à estratégia do negócio? - Segurança da informação e LGPD - Governança de TI e LGPD - Como implementar práticas de segurança de TI nas organizações?                                                |
 
 
 
