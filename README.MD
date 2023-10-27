@@ -24,7 +24,7 @@ Projeto Artigos Gerados por I.A.s
 
 O projeto tem com objetivo, gerar pequenos artigos digitais com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/tilucasoliveira/prompts-for-article-generate-by-ia-main/blob/main/assets/article-generate-by-ia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
